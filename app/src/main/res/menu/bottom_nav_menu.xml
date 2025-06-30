@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_agenda"
+        android:title="Agenda"
+        android:icon="@android:drawable/ic_menu_agenda" />
+    <item
+        android:id="@+id/nav_competencias"
+        android:title="Competencias"
+        android:icon="@android:drawable/ic_menu_gallery" />
+    <item
+        android:id="@+id/nav_seminarios"
+        android:title="Seminarios"
+        android:icon="@android:drawable/ic_menu_info_details" />
+</menu>
