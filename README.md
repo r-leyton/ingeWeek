@@ -1,4 +1,5 @@
 IngeWeek 📅 – Agenda digital para la Semana de Ingeniería
+
 Aplicación Android que funciona como una agenda oficial digital para el evento académico y cultural Semana de Ingeniería,
 permitiendo a los estudiantes y visitantes acceder fácilmente a la programación, seminarios, competencias y ubicaciones desde su dispositivo móvil.
 
@@ -29,4 +30,6 @@ Visual atractivo: Disfruta de la organización del contenido en tarjetas limpias
 
 📸 Capturas
 
+
+![image](https://github.com/user-attachments/assets/d4a2165c-20b7-484d-be91-1c5be6418462)
 
